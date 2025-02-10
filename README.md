@@ -44,6 +44,9 @@ sudo dnf install ghostscript
 
 ## ⚠️ Notes
 Processes all PDFs in current directory
+
 Keeps originals only if compression succeeds
+
 Compression quality depends on PDFSETTINGS
+
 Creates "_compressed.pdf" suffix

@@ -37,7 +37,9 @@ sudo dnf install ghostscript
 ```
 ## 📂 Directory Structure
 .
+
 ├── compressed_pdfs/    # Compressed PDFs
+
 └── original_pdfs/      # Original files
 
 ## ⚠️ Notes
